@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 for (let i = 0; i < notas.length; i++) {
+=======
+for (let i = 0; I < notas.length; i++) {
+>>>>>>> Stashed changes
     soma += notas[i];
     if(notas[i] >= 7) {
     
